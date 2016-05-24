@@ -24,7 +24,7 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
-    py_modules=['bin/fresno'],
+    scripts=['bin/fresno.py'],
     packages=find_packages(exclude=['tests']),
     install_requires=['python-dateutil==2.5.3'],
 )
