@@ -2,7 +2,11 @@
 FresnoPython
 ============
 
+.. image:: https://travis-ci.org/dmpayton/FresnoPython.svg?branch=master
+    :target: https://travis-ci.org/dmpayton/FresnoPython
+
 Version: 1.0.0
+License: MIT
 
 Usage
 =====
@@ -38,7 +42,9 @@ Command-line
       --twitter   Open the twitter account.
 
 
-.. notes
+.. notes::
+
+    Release process:
 
     1. Update version info
      * README.rst
