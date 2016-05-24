@@ -5,8 +5,9 @@ FresnoPython
 .. image:: https://travis-ci.org/dmpayton/FresnoPython.svg?branch=master
     :target: https://travis-ci.org/dmpayton/FresnoPython
 
-* **Version**: 1.0.0
-* **License**: MIT
+**Version**: 1.0.0
+
+**License**: MIT
 
 Usage
 =====
